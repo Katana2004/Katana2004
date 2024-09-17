@@ -1,4 +1,4 @@
-# Hi, I'm Ilya! 👋
+# Hi, I'm Illia! 👋
 
 I'm a beginner Python developer. I took Django courses and am currently a fourth-year student in Ukraine. I enjoy working with web development and creating efficient and scalable applications.
 
