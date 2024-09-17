@@ -5,14 +5,14 @@ I'm a beginner Python developer. I took Django courses and am currently a fourth
 - 🌱 I'm currently learning Django and expanding my knowledge in web development.
 - 🎓 I'm a fourth-year student at a university in Ukraine.
 - 💬 Ask me about Python, Django, and web development.
-- 📫 Contact me: !Email !Telegram
+- 📫 Contact me:[![Email](https://img.shields.io/badge/Email-ilyaban2004@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ilyaban2004@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@IllyaVar-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IllyaVar)
 - ⚡ Fun fact: I'm always eager to learn new things and am open to interesting projects.
 
 ## 🛠 Technologies and tools
-- !Python Python
-- !Django Django
-- !HTML5 HTML/CSS
-- !JavaScript JavaScript
-- !Git Git/GitHub
-- !SQLite SQLite
-- !PostgreSQL PostgreSQL
+- Python
+- Django
+- HTML/CSS
+- JavaScript
+- Git/GitHub
+- SQLite, PostgreSQL
