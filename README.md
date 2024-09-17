@@ -16,3 +16,6 @@ I'm a beginner Python developer. I took Django courses and am currently a fourth
 - JavaScript
 - Git/GitHub
 - SQLite, PostgreSQL
+  
+## 🏅 Codewars
+[![Codewars Badge](https://www.codewars.com/users/Katana2004/badges/large)](https://www.codewars.com/users/Katana2004)
