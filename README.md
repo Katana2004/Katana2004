@@ -1,14 +1,14 @@
-# Привет, я Илья! 👋
+# Hi, I'm Ilya! 👋
 
-Я начинающий Python-разработчик. Проходил курсы по Django и сейчас учусь на четвертом курсе в Украине. Мне нравится работать с веб-разработкой и создавать эффективные и масштабируемые приложения. 
+I'm a beginner Python developer. I took Django courses and am currently a fourth-year student in Ukraine. I enjoy working with web development and creating efficient and scalable applications.
 
-- 🌱 Сейчас я изучаю Django и расширяю свои знания в веб-разработке.
-- 🎓 Учусь на четвертом курсе университета в Украине.
-- 💬 Спроси меня о Python, Django и веб-разработке.
-- 📫 Как связаться со мной: [ilyaban2004@gmail.com]
-- ⚡ Интересный факт: Я всегда стремлюсь к новым знаниям и открыт для интересных проектов.
+- 🌱 I'm currently learning Django and expanding my knowledge in web development.
+- 🎓 I'm a fourth-year student at a university in Ukraine.
+- 💬 Ask me about Python, Django, and web development.
+- 📫 Contact me: [ilyaban2004@gmail.com]
+- ⚡ Fun fact: I'm always eager to learn new things and am open to interesting projects.
 
-## 🛠 Технологии и инструменты
+## 🛠 Technologies and tools
 - Python
 - Django
 - HTML/CSS
