@@ -1,25 +1,35 @@
-# Hi, I'm Illia! 👋
+# Hi, I'm Illia Varianytsia! 👋
 
-I'm a beginner Python developer. I took Django courses and am currently a fourth-year student at a university in Ukraine. I enjoy working with web development and creating efficient and scalable applications.
+**Junior Python Developer | [cite_start]Backend & AI Enthusiast** 📍 Based in Bichl/Munich, Germany [cite: 1, 2, 28]
 
-- 🌱 I'm currently learning Django and expanding my knowledge in web development.
-- 🎓 I'm a fourth-year student at a university in Ukraine.
-- 💬 Ask me about Python, Django, and web development.
-- 📫 Contact me: [![Email](https://img.shields.io/badge/Email-ilyaban2004@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ilyaban2004@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-@IllyaVar-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IllyaVar)
-- ⚡ Fun fact: I'm always eager to learn new things and am open to interesting projects.
+[cite_start]I am a results-oriented developer focused on building scalable backend services and exploring Artificial Intelligence. [cite: 15, 33, 34] [cite_start]Currently, I am finishing my final year of Computer Science [cite: 65] [cite_start]and deepening my expertise through advanced certifications. [cite: 72]
 
-## 🛠 Technologies and Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+---
 
-## 🏅 Codewars
-[![Codewars Badge](https://www.codewars.com/users/Katana2004/badges/large)](https://www.codewars.com/users/Katana2004)
+### 🚀 About Me
+- [cite_start]🎓 **Education:** 4th-year Computer Science student at European University. [cite: 65, 66]
+- [cite_start]💼 **Experience:** Completed a Web Programming internship at Big Hug Kids, focusing on site optimization and team collaboration. [cite: 61, 62, 63]
+- [cite_start]🧪 **Current Learning:** Actively enrolled in **HarvardX CS109xa: Machine Learning and AI with Python**. [cite: 14, 72]
+- [cite_start]💻 **Problem Solving:** Regularly solving complex algorithmic challenges on **LeetCode** to sharpen my logic. 
+
+---
+
+### 🛠 Technologies & Tools
+* [cite_start]**Languages:** Python (OOP), JavaScript, SQL. [cite: 9, 36, 38]
+* **Backend:** FastAPI, Django. 
+* [cite_start]**Databases:** PostgreSQL, Data Modeling. [cite: 7, 38]
+* [cite_start]**DevOps:** Docker, Git/GitHub, CI/CD basics. [cite: 7, 39, 82]
+* **Web:** HTML5, CSS3, WordPress/Elementor. [cite: 37, 55]
+
+---
+
+### 📂 Featured Projects
+* [cite_start]**[Weather App](https://github.com/Katana2004/your-repo-link):** Real-time weather data processing using Python and APIs. [cite: 41, 47, 48]
+* [cite_start]**[Telegram Bot](https://github.com/Katana2004/your-repo-link):** Automated user interaction and data processing. [cite: 43, 50, 52]
+* [cite_start]**[E-commerce Frontend](https://github.com/Katana2004/your-repo-link):** Responsive web design for modern businesses. [cite: 45, 53, 55]
+
+---
+
+### 📫 Contact Me
+- [cite_start]**Email:** ilyaban2004@gmail.com [cite: 22, 30]
+- [cite_start]**Location:** Bichl, Germany [cite: 24, 28]
