@@ -1,13 +1,13 @@
 # Hi, I'm Illia Varianytsia! 👋
 
-**Junior Python Developer | [cite_start]Backend & AI Enthusiast** 📍 Based in Bichl/Munich, Germany [cite: 1, 2, 28, 31, 32]
+**Junior Python Developer | B.Sc. in Computer Science** 📍 Based in Bichl/Munich, Germany
 
-[cite_start]I am a developer focused on building scalable backend services and exploring Artificial Intelligence[cite: 15, 33, 34]. [cite_start]Currently, I am in my final year of Computer Science [cite: 65] [cite_start]and deepening my expertise through the **HarvardX** program[cite: 14, 72].
+I am a software developer focused on building scalable backend services and exploring Artificial Intelligence. Having completed my Bachelor's degree, I am now dedicated to professional growth in Backend Engineering and Machine Learning.
 
-- [cite_start]🎓 **Education:** 4th-year Computer Science student at European University[cite: 65, 66].
-- [cite_start]💼 **Experience:** Completed a Web Programming internship at Big Hug Kids, focusing on site optimization[cite: 61, 63].
-- [cite_start]🧪 **Current Learning:** Actively enrolled in **HarvardX CS109xa: Machine Learning and AI with Python**[cite: 14, 72].
-- [cite_start]💻 **Problem Solving:** Regularly solving complex algorithmic challenges on **LeetCode** to sharpen my logic[cite: 79].
+- 🎓 **Education:** Bachelor in Computer Science from European University (Graduated June 2025).
+- 💼 **Experience:** Completed a Web Programming internship at Big Hug Kids, specializing in site performance and team collaboration.
+- 🧪 **Current Focus:** Deepening expertise in AI through **HarvardX CS109xa: Machine Learning and AI with Python**.
+- 💻 **Problem Solving:** Actively sharpening analytical thinking by solving algorithmic challenges on **LeetCode**.
 - 📫 **Contact me:** [![Email](https://img.shields.io/badge/Email-ilyaban2004@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ilyaban2004@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-@IllyaVar-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IllyaVar)
 
 ---
@@ -26,11 +26,6 @@
 ---
 
 ## 📂 Featured Projects
-* [cite_start]**[Weather App](https://github.com/Katana2004/your-repo-link):** Real-time weather data processing using Python and APIs[cite: 41, 47, 48].
-* [cite_start]**[Telegram Bot](https://github.com/Katana2004/your-repo-link):** Automated user interaction and data processing[cite: 43, 50, 52].
-* [cite_start]**[E-commerce Frontend](https://github.com/Katana2004/your-repo-link):** Responsive web design and optimization[cite: 45, 53, 63].
-
----
-
-## 🏅 Coding Stats
-[![Codewars Badge](https://www.codewars.com/users/Katana2004/badges/large)](https://www.codewars.com/users/Katana2004)
+* **[Weather App](https://github.com/Katana2004/your-repo-link):** Real-time weather data processing using Python and APIs.
+* **[Telegram Bot](https://github.com/Katana2004/your-repo-link):** Automated user interaction and data processing systems.
+* **[E-commerce Frontend](https://github.com/Katana2004/your-repo-link):** Responsive web design and performance optimization.
